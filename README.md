@@ -1,2 +1,1 @@
-# wisang.github.io
-## Testing github.io and Jekyll
+### Testing github.io and Jekyll
