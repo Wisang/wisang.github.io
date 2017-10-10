@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Wiang's blog"
 date:   2017-09-29 16:42:49 +0900
 categories: jekyll update
 ---
